@@ -104,7 +104,7 @@ control-stock-app/
 - Organización por fechas
 - Descarga de respaldos históricos
 
-## Configuracion
+## Configuración
 
 La aplicación permite personalizar:
 - Nombre del negocio
