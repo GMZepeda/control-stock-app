@@ -1,3 +1,4 @@
+
 # Sistema de Control de Stock
 
 Aplicación web completa para gestión de inventario, ventas y presupuestos desarrollada con Python y Streamlit.
