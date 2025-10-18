@@ -14,7 +14,23 @@ Aplicación web completa para gestión de inventario, ventas y presupuestos desa
 
 ## Capturas de Pantalla
 
-_(Agregar capturas aquí próximamente)_
+### Inventario
+![Inventario](assets/inventario.png)
+
+### Productos
+![Productos](assets/productos.png)
+
+### Ventas
+![Ventas](assets/ventas.png)
+
+### Presupuestos
+![Presupuestos](assets/presupuestos.png)
+
+### Respaldos
+![Respaldos](assets/respaldos.png)
+
+### Configuración
+![Configuración](assets/configuracion.png)
 
 ## Tecnologías Utilizadas
 
